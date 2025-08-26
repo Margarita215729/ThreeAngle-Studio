@@ -3,10 +3,10 @@ import { getFirestore } from "firebase/firestore"
 import { getAuth } from "firebase/auth"
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAerrzTDyyHkcJHnw48L7KIwBokDIoOl9s",
+  apiKey: "Your-api-key",
   authDomain: "threeangle-studio.firebaseapp.com",
   projectId: "threeangle-studio",
-  storageBucket: "threeangle-studio.firebasestorage.app",
+  storageBucket: "Your-storage-Bucket",
   messagingSenderId: "427088620543",
   appId: "1:427088620543:web:e5c275e28c4a0ed48c55ca",
   measurementId: "G-31T0EKZL8B",
